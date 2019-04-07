@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@goodmind/flow-js": "^0.96.1-flow.6146e7c8b-build.43872d4"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
+}
